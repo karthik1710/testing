@@ -24,7 +24,7 @@ the Open Source Definition).  Historically, most, but not all, Python
 releases have also been GPL-compatible; the table below summarizes
 the various releases.
 
-    Release         Derived     Year        Owner       GPL-
+           Derived     Year        Owner       GPL-
                     from                                compatible? (1)
 
     0.9.0 thru 1.2              1991-1995   CWI         yes

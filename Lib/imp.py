@@ -1,3 +1,5 @@
+
+"test"
 """This module provides the components needed to build your own __import__
 function.  Undocumented functions are obsolete.
 
